@@ -5,4 +5,4 @@ This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to 
 This repository is licensed under the [MIT License](LICENSE.md).
 
 ## Website
-https://danae-pla-karidi.github.io/personal-website/publications/ 
+https://danae-pla-karidi.github.io/personal-website
