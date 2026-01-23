@@ -42,8 +42,6 @@ National Technical University of Athens (NTUA), Athens, Greece
 
 **Grade:** Very Good
 
-[Thesis link](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/16933)
-
 **Thesis Focus:**  
 Developed early methodologies for identifying and classifying spam accounts on Twitter using machine learning techniques and behavioral pattern analysis.
 
