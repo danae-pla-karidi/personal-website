@@ -53,9 +53,9 @@ description: "Publications and research papers"
 
 ## Thesis
 
-**Pla Karidi, D.** (2022). Leveraging Social Networks and Knowledge Graphs for Discovering and Recommending Engaging and Credible Information. Doctoral dissertation, National Technical University of Athens. [Thesis link](https://dspace.lib.ntua.gr/xmlui/handle/123456789/55168)
+**Pla Karidi, D.** (2022). Leveraging Social Networks and Knowledge Graphs for Discovering and Recommending Engaging and Credible Information. Doctoral dissertation, National Technical University of Athens.
 
-**Pla Karidi, D.** (2014). Analysis and Classification of Twitter Users (in Greek). Diploma thesis, School of Electrical & Computer Engineering, National Technical University of Athens. [Thesis link](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/16933)
+**Pla Karidi, D.** (2014). Analysis and Classification of Twitter Users (in Greek). Diploma thesis, School of Electrical & Computer Engineering, National Technical University of Athens.
 
 
 
