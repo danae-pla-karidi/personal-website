@@ -12,9 +12,9 @@ description: "Publications and research papers"
 
 **Kaoukis, G., Koufopoulos, I., Psaroudaki, E., Pla-Karidi, D., Pitoura, E., Papastefanatos, G., & Tsaparas, P.** (2026). EmeraldApp: An AI-Driven Tool for Detecting Greenwashing in Sustainability Claims. *Companion Proc. of the ACM on Web Conference 2026 (Beyond Facts 2026 @ WWW 2026)*.
 
-**Nakos, H., Dalamagas, T., Sartzetakis, S., Kapetanas, N., Pla-Karidi, D., & Stavrakas, Y.** (2025). Semantically-enabled Data Spaces for Intelligent Data Asset Discovery. *Proc. 21st International Conference on Semantic Systems (SEMANTiCS 2025)*. CEUR-WS.
+**Nakos, H., Dalamagas, T., Sartzetakis, S., Kapetanas, N., Pla-Karidi, D., & Stavrakas, Y.** (2025). Semantically-enabled Data Spaces for Intelligent Data Asset Discovery. *Proc. 21st International Conference on Semantic Systems (SEMANTiCS 2025)*.
 
-**Pla-Karidi, D., Chrysanthopoulos, C., & Triantafyllou, I.** (2025). Knowledge-Graph-Driven Retrieval-Augmented Generation for Exploring and Curating Active Archives. *Proc. 21st International Conference on Semantic Systems (SEMANTiCS 2025)*. CEUR-WS.
+**Pla-Karidi, D., Chrysanthopoulos, C., & Triantafyllou, I.** (2025). Knowledge-Graph-Driven Retrieval-Augmented Generation for Exploring and Curating Active Archives. *Proc. 21st International Conference on Semantic Systems (SEMANTiCS 2025)*. 
 
 **Pla Karidi, D. & Pitoura, E.** (2025). Path-Based Summary Explanations for Graph Recommenders. *Proc. 41st IEEE Int'l Conf. on Data Engineering (ICDE 2025)* (pp. 973–986). IEEE Computer Society.
 
