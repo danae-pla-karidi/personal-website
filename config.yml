@@ -1,0 +1,65 @@
+baseURL: "https://danaeplakaridi.github.io/"
+title: "Danae Pla Karidi"
+pagination:
+  pagerSize: 20
+theme: PaperMod
+
+params:
+  author: Danae Pla Karidi
+  description: "Post Doctoral Researcher at Archimedes AI, Athena Research Center"
+  
+  profileMode:
+    enabled: true
+    title: "Danae Pla Karidi, PhD"
+    subtitle: |
+      Post Doctoral Researcher – [Archimedes AI](https://archimedesai.gr/), Athena Research Center
+      
+      Adjunct Assistant Professor – University of West Attica
+    imageUrl: "picture.png"
+    imageTitle: "Danae Pla Karidi"
+    buttons:
+      - name: Publications
+        url: publications/
+      - name: Teaching
+        url: teaching/
+      - name: Projects
+        url: projects/
+      - name: Education
+        url: education/
+
+  socialIcons:
+    - name: CV
+      url: cv_en_26.pdf
+    - name: Email
+      url: mailto:danae@athenarc.gr
+    - name: Location
+      url: location/
+    - name: Office Hours
+      url: officehours/
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=ahaSCw4AAAAJ&hl
+    - name: GitHub
+      url: https://github.com/danae-pla-karidi
+    - name: LinkedIn
+      url: https://linkedin.com/in/danaeplakaridi
+
+menu:
+  main:
+    - name: Publications
+      url: publications/
+      weight: 1
+    - name: Teaching
+      url: teaching/
+      weight: 2
+    - name: Projects
+      url: projects/
+      weight: 3
+    - name: Education
+      url: education/
+      weight: 4
+            
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
