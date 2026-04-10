@@ -14,7 +14,7 @@ Upgraded maritime analytics tool for operational deployment on Corinth Canal. Ad
 ## Completed Projects
 
 **AI4Greenwashing** (2025–2026, Archimedes Flagship)  
-Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims.
+Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims. https://github.com/orgs/ai4greenwashing/repositories
 
 **Optimising Athens Metro** (2025–2026, Coordinator)  
 Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data analysis to improve operational efficiency and passenger experience. https://github.com/arch-optimize/metro
@@ -26,6 +26,7 @@ Led cross-disciplinary teams producing five data-driven tools:
 - **RideInsight**: Transportation analytics
 - **CustomerSuccess**: Customer behavior analysis
 - **MarinerMuse**: Maritime traffic analytics
+https://github.com/orgs/Data4SocialGood/repositories
 
 **DataBri-X and UNDERPIN** (2024–2025, EU Horizon)  
 Contributing the KnowDE knowledge-graph recommender module for intelligent data asset discovery in semantically-enabled data spaces.
@@ -35,6 +36,7 @@ Big-data analytics and knowledge-graph mining platform. Developed scalable infra
 
 **KnowDE** (2020–Present)  
 Creator & maintainer of a knowledge-based data-exploration recommender platform. Open-source tool for intelligent data discovery using knowledge graphs.
+
 
 **MEDA.2** (2020–2021, National)  
 Knowledge-based data exploration system for heterogeneous data sources.
