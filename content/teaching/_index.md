@@ -7,6 +7,10 @@ description: "Courses and student supervision"
 
 ## Current Teaching
 
+**Analysis and Design of Information Systems** (Spring 2025–2026)  
+Adjunct Assistant Professor  
+Department of Archival, Library & Information Studies, University of West Attica  
+
 **Web Applications** (Winter 2025–2026)  
 Adjunct Assistant Professor  
 Department of Archival, Library & Information Studies, University of West Attica  
