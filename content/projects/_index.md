@@ -6,18 +6,18 @@ description: "Research and development projects"
 ---
 ## Current Projects
 
-**AI4Greenwashing** (2025–Present, Archimedes Flagship)  
-Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims.
-
 **MarinerMuse II** (2025–Present, Coordinator)  
 Upgraded maritime analytics tool for operational deployment on Corinth Canal. Advanced analytics platform for vessel traffic monitoring and operational optimization.
-
-**Optimising Athens Metro** (2025–Present, Coordinator)  
-Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data analysis to improve operational efficiency and passenger experience.
 
 ---
 
 ## Completed Projects
+
+**AI4Greenwashing** (2025–2026, Archimedes Flagship)  
+Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims.
+
+**Optimising Athens Metro** (2025–2026, Coordinator)  
+Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data analysis to improve operational efficiency and passenger experience. https://github.com/arch-optimize/metro
 
 **Data for Social Good** (2023–2024, Coordinator)  
 Led cross-disciplinary teams producing five data-driven tools:
