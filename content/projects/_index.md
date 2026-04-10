@@ -21,6 +21,7 @@ Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data
 
 **Data for Social Good** (2023–2024, Coordinator)
 https://github.com/orgs/Data4SocialGood/repositories
+
 Led cross-disciplinary teams producing five data-driven tools:
 - **EurekaPower**: Energy analytics platform
 - **HydroForecast**: Water resource prediction system
