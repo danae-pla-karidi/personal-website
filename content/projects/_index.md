@@ -19,7 +19,8 @@ Designed KG- and RAG-powered tools & datasets for greenwashing detection in sust
 **Optimising Athens Metro** (2025–2026, Coordinator)  
 Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data analysis to improve operational efficiency and passenger experience. https://github.com/arch-optimize/metro
 
-**Data for Social Good** (2023–2024, Coordinator)  https://github.com/orgs/Data4SocialGood/repositories
+**Data for Social Good** (2023–2024, Coordinator)
+https://github.com/orgs/Data4SocialGood/repositories
 Led cross-disciplinary teams producing five data-driven tools:
 - **EurekaPower**: Energy analytics platform
 - **HydroForecast**: Water resource prediction system
