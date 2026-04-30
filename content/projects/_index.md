@@ -14,7 +14,7 @@ Upgraded maritime analytics tool for operational deployment on Corinth Canal. Ad
 ## Completed Projects
 
 **AI4Greenwashing** (2025–2026, Archimedes Flagship)  
-Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims. https://github.com/orgs/ai4greenwashing/repositories
+Designed KG- and RAG-powered tools & datasets for greenwashing detection in sustainability claims. Developed EmeraldMind framework combining knowledge graphs with retrieval-augmented generation for detecting false environmental claims. https://github.com/orgs/ai4greenwashing/repositories https://sites.google.com/view/ai-against-greenwashing/home?authuser=0
 
 **Optimising Athens Metro** (2025–2026, Coordinator)  
 Analytics & optimization study for Metro Lines 2 & 3 (STASY). Comprehensive data analysis to improve operational efficiency and passenger experience. https://github.com/arch-optimize/metro
